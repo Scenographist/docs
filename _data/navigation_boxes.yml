@@ -1,12 +1,12 @@
 # Boxes include navigation
 
 - title: Getting Started
-  desc: Get started fast with installation and theme setup instructions
+  desc: Get users to their first successful result in minutes.
   icon: cog
   doc: installation
 
-- title: Theme Features
-  desc: Lean about all the theme options, features and how to use them
+- title: Core Concepts
+  desc: Teach the mental model of Scenographist.
   icon: settings
   doc: hero
 

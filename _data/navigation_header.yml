@@ -1,6 +1,20 @@
 # Navbar left menu navigation links
 
 left:
+  - title: Home
+    url: /
+
+  - title: Docs
+    url: /docs/installation/
+
+  - title: Prompt Guide
+    url: /prompt/
+
+  - title: API
+    url: /api/
+
+  - title: Community
+    url: /community/
 
 
 # Navbar right menu navigation links
