@@ -3,12 +3,12 @@
 - title: Getting Started
   desc: Get users to their first successful result in minutes.
   icon: cog
-  doc: installation
+  doc: scenographist
 
 - title: Core Concepts
   desc: Teach the mental model of Scenographist.
   icon: settings
-  doc: hero
+  doc: create
 
 - title: Prompting Guide
   desc: Turn users into world builders, not prompt guessers.

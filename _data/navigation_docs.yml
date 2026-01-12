@@ -3,10 +3,13 @@
   - scenographist
   - philosophy
   - who
+  - what
+  - how
+  - quick
 
 - title: Getting Started
   docs:
-  - installation
+  - create
 
 - title: Core Concepts
   docs:
