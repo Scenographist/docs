@@ -47,17 +47,3 @@ AI is used to:
 * Support storytelling through space
 
 The result is a tool that feels less like software, and more like a **collaborative creative assistant** for designers, architects, and storytellers.
-
----
-
-## Who It’s For
-
-Scenographist is built for anyone designing experiences through space, including:
-
-* Scenographers & stage designers
-* Architects & spatial designers
-* Event, festival & wedding designers
-* Hospitality & resort designers
-* Film, fashion & brand experience teams
-
-If your work involves **emotion, movement, atmosphere, and narrative**, Scenographist is made for you.
