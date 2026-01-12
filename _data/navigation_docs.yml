@@ -1,36 +1,55 @@
+- title: Introduction
+  docs:
+  - installation
+
 - title: Getting Started
   docs:
   - installation
-  - setup
-  - navigation
-  - footer
-  - posts
-  - docs
-  - comments
-  - analytics
 
-- title: Theme Features
+- title: Core Concepts
   docs:
-  - hero
-  - boxes
-  - featured
-  - videos
-  - faq
-  - team
-  - cta
-  - changelog
-  - contact
-  - media
-  - toc
-  - alerts
+  - installation
 
-- title: Customization
+- title: Prompting Guide
   docs:
-  - translation
-  - customize
-  - development
-  - sources
+  - installation
 
-- title: Help
+- title: Use Cases & Industries
   docs:
-  - support
+  - installation
+
+- title: Features & Tools
+  docs:
+  - installation
+
+- title: Advanced Workflows
+  docs:
+  - installation
+
+- title: Best Practices
+  docs:
+  - installation
+
+- title: API & Integrations (Future-Ready)
+  docs:
+  - installation
+
+- title: Pricing & Plans
+  docs:
+  - installation
+
+- title: Legal & Compliance
+  docs:
+  - installation
+
+- title: FAQ & Troubleshooting
+  docs:
+  - installation
+
+- title: Community & Support
+  docs:
+  - installation
+
+- title: Changelog & Roadmap
+  docs:
+  - installation

@@ -10,7 +10,7 @@
   icon: settings
   doc: hero
 
-- title: Customization
-  desc: Get help or tailor the theme to your specific requirements
+- title: Prompting Guide
+  desc: Turn users into world builders, not prompt guessers.
   icon: code
   doc: customize
