@@ -95,7 +95,7 @@ google_analytics:
 # Number of posts displayed on blog page
 paginate:           10
 
-# Blog path
+# News path
 paginate_path:      "/news/:num/"
 
 # Path to post content assets directory i.e post images, pdfs etc
