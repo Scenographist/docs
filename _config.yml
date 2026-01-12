@@ -62,12 +62,12 @@ authors:
 social:
     email:
     website:
-    facebook:       https://www.facebook.com/
+    facebook:       https://www.facebook.com/scenographist
     flickr:
     dribbble:
     github:
     googleplus:
-    instagram:      https://www.instagram.com/
+    instagram:      https://www.instagram.com/scenographist
     linkedin:       https://www.linkedin.com/showcase/scenographist
     pinterest:
     twitter:        https://twitter.com/scenographist
@@ -83,7 +83,7 @@ share:
 
 # Default footer image settings
 footer:
-    copyright:      Made by <a href="https://unbound.studio/">Unbound Studio</a> in Cleveland.
+    copyright:      © 2026 Scenographist. All rights reserved.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
