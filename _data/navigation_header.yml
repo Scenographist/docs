@@ -8,13 +8,10 @@ left:
     url: /docs/scenographist/
 
   - title: Prompt Guide
-    url: /prompt/
-
-  - title: API
-    url: /api/
+    url: /docs/anatomy
 
   - title: Community
-    url: /community/
+    url: /docs/community/
 
 
 # Navbar right menu navigation links
