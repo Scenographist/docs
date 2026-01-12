@@ -10,30 +10,58 @@
 - title: Getting Started
   docs:
   - create
+  - dashboard
+  - creating
+  - understanding
+  - generating
+  - saving
+  - best
 
 - title: Core Concepts
   docs:
-  - installation
+  - scenography
+  - worlds
+  - spaces
+  - narrative
+  - light
+  - timeline
 
 - title: Prompting Guide
   docs:
-  - installation
+  - anatomy
+  - templates
+  - modifiers
+  - mistakes
+  - examples
 
 - title: Use Cases & Industries
   docs:
-  - installation
+  - use-cases
 
 - title: Features & Tools
   docs:
-  - installation
+  - scene
+  - style
+  - interation
+  - image
+  - exports
 
 - title: Advanced Workflows
   docs:
-  - installation
+  - design
+  - client
+  - moodboard
+  - collaborative
+  - ai
+  - using
 
 - title: Best Practices
   docs:
-  - installation
+  - designing
+  - thinking
+  - mixing
+  - avoiding
+  - translating
 
 - title: API & Integrations (Future-Ready)
   docs:
@@ -41,19 +69,30 @@
 
 - title: Pricing & Plans
   docs:
-  - installation
+  - free-pro
+  - usage
+  - commercial
+  - studio
 
 - title: Legal & Compliance
   docs:
-  - installation
+  - api
+
 
 - title: FAQ & Troubleshooting
   docs:
-  - installation
+  - prompt
+  - quality
+  - export
+  - account
 
 - title: Community & Support
   docs:
-  - installation
+  - discord
+  - feature
+  - bug
+  - contact
+  - contributing
 
 - title: Changelog & Roadmap
   docs:
