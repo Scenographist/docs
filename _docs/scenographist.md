@@ -4,8 +4,6 @@ subtitle: AI-assisted scenography, architecture & experiential design — from c
 tags: [introduction, philosophy, ai, scenography]
 ---
 
-## What is Scenographist
-
 **Scenographist** is an AI-assisted creative platform designed to explore, design, and articulate **spaces as narratives**.
 
 It sits at the intersection of:

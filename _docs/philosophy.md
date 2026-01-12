@@ -4,9 +4,7 @@ subtitle: The Vision Behind Scenographist
 tags: [philosophy, design, scenography]
 ---
 
-## Philosophy
-
-At Scenographist, we see design as more than structures and surfaces—it’s a medium for storytelling. Every space holds the power to evoke emotion, shape experience, and guide human behavior. Our philosophy bridges architecture, scenography, and experiential design to create immersive environments that resonate on multiple levels.
+We see design as more than structures and surfaces—it’s a medium for storytelling. Every space holds the power to evoke emotion, shape experience, and guide human behavior. Our philosophy bridges architecture, scenography, and experiential design to create immersive environments that resonate on multiple levels.
 
 ### Space as Narrative
 

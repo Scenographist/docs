@@ -4,8 +4,6 @@ subtitle: Scenographist is designed for creative professionals who want to eleva
 tags: [philosophy, design, scenography]
 ---
 
-## Who It’s For
-
 Scenographist is designed for creative professionals who want to elevate spatial storytelling and experiential design. This includes:
 
 - **Architects** – Explore architectural concepts and bring visions to life with immersive design tools.  
