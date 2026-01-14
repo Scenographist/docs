@@ -27,7 +27,7 @@ title:              Docs
 description:        Documentation Jekyll theme.
 lang:               en
 
-# Site subpath, e.g. /blog
+# Site subpath, e.g. /news
 baseurl:            ""
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
