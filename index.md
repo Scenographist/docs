@@ -2,7 +2,7 @@
 layout: page
 width: expand
 hero:
-    title: Learn about Scenographist
+    title: Documentation
     subtitle: Dive into your journey through guides, articles, and videos.
     image: knowledge.svg
     search: true
