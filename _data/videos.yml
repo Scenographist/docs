@@ -1,9 +1,9 @@
 # Video include content
 
-- title: Jekyll Introduction
-  desc: Overview of the most popular static generator
+- title: Introduction
+  desc: Get an overview of Scenographist and learn how it can transform your scenography projects
   url: https://youtu.be/T1itpPvFWHI
 
-- title: Creating a post
-  desc: Lean how to publish your first post in Jekyll
+- title: Creating Your First Scene
+  desc: Learn how to design and publish your first project using Scenographist
   url: https://youtu.be/gsYqPL9EFwQ
