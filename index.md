@@ -3,8 +3,8 @@ layout: page
 width: expand
 hero:
     title: Learn about Scenographist
-    subtitle: Search or browse in depth articles and videos on everything on Docs Jekyll theme, from basic theme setup to customisation and development
-    image: knowledge.png
+    subtitle: Dive into your journey through guides, articles, and videos.
+    image: knowledge.svg
     search: true
 ---
 
